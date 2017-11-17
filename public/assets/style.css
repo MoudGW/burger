@@ -43,7 +43,7 @@
  	border: none;
  }
 
- .Available:hover {
+ button:hover {
  	opacity: 0.5;
  }
 
